@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## NTU Conti A2 Project Introduction Page
 
-You can use the [editor on GitHub](https://github.com/NTU-Conti-A2/a2_introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Use the [editor on GitHub](https://github.com/NTU-Conti-A2/a2_introduction/blob/gh-pages/index.md) to maintain and preview the content for website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+View on [GitHub Page](https://NTU-Conti-A2.github.io/a2_introduction/)
+
 
 ### Markdown
 
